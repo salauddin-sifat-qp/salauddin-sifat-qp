@@ -9,7 +9,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=salauddin-sifat-qp&show_icons=true&locale=en&theme=react" alt="salauddin-sifat-qp" />
 </td>
 <td>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime/?username=mahi160&theme=calm&v=2&layout=compact" alt="salauddin-sifat-qp" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime/?username=mahi160&theme=react&v=2&layout=compact" alt="salauddin-sifat-qp" />
 </td>
 </table>
 </p>
@@ -18,7 +18,7 @@
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <p align="right">
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=salauddin-sifat-qp&theme=calm&layout=compact" alt="salauddin-sifat-qp" />
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=salauddin-sifat-qp&theme=react&layout=compact" alt="salauddin-sifat-qp" />
 </p>
 <!-- <p align="left"> <a href="https://twitter.com/mahi160" target="blank"><img src="https://img.shields.io/twitter/follow/mahi160?logo=twitter&style=for-the-badge" alt="mahi160" /></a> </p> -->
 
