@@ -6,7 +6,7 @@
 <p align="left" style="display:flex"> 
 <table>
 <td>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=salauddin-sifat-qp&show_icons=true&locale=en&theme=calm" alt="salauddin-sifat-qp" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=salauddin-sifat-qp&show_icons=true&locale=en&theme=react" alt="salauddin-sifat-qp" />
 </td>
 <td>
   <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime/?username=mahi160&theme=calm&v=2&layout=compact" alt="salauddin-sifat-qp" />
